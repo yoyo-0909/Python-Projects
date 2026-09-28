@@ -7,4 +7,4 @@ invertedblur = cv2.bitwise_not(blur)
 sketch = cv2.divide(grey_img, invertedblur, scale = 256.0)
 cv2.imwrite("profile_sketch.png", sketch) #Export the sketch image
 
-# Coded with 💙 by Mr. Unity Buddy
+
