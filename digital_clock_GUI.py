@@ -21,4 +21,4 @@ def digital_clock():
 digital_clock()
 app_window.mainloop()
 
-# Coded with 💙 by Mr. Unity Buddy
+
