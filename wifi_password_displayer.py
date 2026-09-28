@@ -12,4 +12,4 @@ for i in profiles:
     except IndexError:
         print ("{:<30}|  {:<}".format(i, ""))
 
- # Coded with 💙 by Mr. Unity Buddy
+ 
