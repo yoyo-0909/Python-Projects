@@ -59,4 +59,4 @@ elif i ==30:
 else:
     print("Congratulations! it's a perfect ",i,"/ 40 you are Intelligent.")
     
-# Coded with 💙 by Mr. Unity Buddy
+
